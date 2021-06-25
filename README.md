@@ -1,2 +1,3 @@
-# phase1
-VCC Library Management System - Phase One
+# VCCLMS
+Library Management System
+Add some description here

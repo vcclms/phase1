@@ -1,0 +1,136 @@
+.login-form {
+     width: 100%;
+      border: 2px solid grey;
+  border-radius: 5px;
+  border-style: inset;
+  padding: 30px;
+  margin: 10px;
+  max-width: 600px;
+  margin: 4em auto;
+  font-size: 1.3rem;
+  color: #2e6145;
+  margin-bottom: 1.0rem;
+  display: block;
+  border:box;
+}
+
+.login-form body {
+	border: 5px #2e6145;
+	
+	
+	}
+	.login-form h1{
+	 text-align: center;
+	margin:20px;
+	padding: 10px 0;
+	font-weight: bold;
+	font-size: 30px;
+	
+	}
+	.login-form input{
+	
+	width:100%;
+	margin-bottom: 20px;
+	}
+	
+	.login-form input[type=text], .login-form input[type=password], .login-form select{
+	
+border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+border-bottom: none;
+background:transparent;
+outline: #4CAF50 solid 10px;
+height: 30px;
+font-size: 16px;
+opacity: 1;
+color:grey;
+
+	}
+.login-form input[type="submit"] {	
+	border: none;
+  background: #343642;
+  border-radius: none;
+  padding: 16px 20px;
+  color: #ffffff;
+  font-weight: bold;
+  font-family: "Open Sans", sans-serif;
+  cursor: pointer;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  -ms-appearance: none;
+  -o-appearance: none;
+  appearance: none;
+}
+.no-touch .login-form input[type="submit"]:hover {
+  background: #42a2e1;
+}
+
+.login-form input[type="submit"]:focus {
+  outline: none;
+  background: #2b3e51;
+}
+
+.login-form input[type="submit"]:active {
+  -webkit-transform: scale(0.9);
+  -moz-transform: scale(0.9);
+  -ms-transform: scale(0.9);
+  -o-transform: scale(0.9);
+  transform: scale(0.9);
+}
+
+	
+	.login-form a{
+	font-size: 14px;
+	text-decoration: none;
+	color:#fff;
+	
+	}
+	
+	.login-form a{
+	font-size: 14px;
+	text-decoration: none;
+	color:#fff;
+	
+	}
+	
+	.login-form a:hover{
+	
+	color:#fff;
+	opacity: 1;
+	
+	}
+	
+	.bottom-text{
+	
+	color:#fff;
+	
+	}
+	
+	.bottom-text input{
+	
+	width:10%;
+	float:left;
+	
+	}
+	
+	.bottom-text a{
+	
+	float:right;
+	}
+	
+	#overlay-area{
+	
+	position: absolute;
+	background-color: rgba(0,0,0,0.4);
+	z-index:-5;
+	height:100%;
+	width:100%;
+	top:0;
+	bottom: 0;
+	
+	
+	}
+	
